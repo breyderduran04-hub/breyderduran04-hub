@@ -1,11 +1,11 @@
-<!-- ============ BANNER ANIMADO ============ -->
+<!-- ============ BANNER (imagen de fondo + nombre animado) ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:8b949e&height=220&section=header&text=Breyder%20Duran&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrollo%20de%20Aplicaciones%20Web&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/breyderduran04-hub/breyderduran04-hub/main/assets/banner.svg" alt="Breyder Duran - Desarrollo de Aplicaciones Web" width="100%" />
 </div>
 
-<!-- ============ TEXTO TIPO MÁQUINA DE ESCRIBIR ============ -->
+<!-- ============ TEXTO TIPO MAQUINA DE ESCRIBIR ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&height=50&lines=Bienvenido+al+GitHub+de+Breyder+%3C%2F%3E;%C2%A1Hola!+Soy+Breyder+Duran+%F0%9F%91%8B;Estudiante+de+Desarrollo+de+Aplicaciones+Web;T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+Redes;Buscando+Pr%C3%A1cticas+Curriculares+(FCT)+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&height=50&lines=Bienvenido+al+GitHub+de+Breyder;Hola%2C+soy+Breyder+Duran;Estudiante+de+Desarrollo+de+Aplicaciones+Web;T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+Redes;Buscando+Pr%C3%A1cticas+Curriculares+FCT" alt="Typing SVG" />
 </div>
 
 <br>
@@ -31,23 +31,23 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2" width="80%" alt="" />
 </div>
 
-<!-- ============ SOBRE MÍ ============ -->
-<h3 align="center">👨‍💻 Sobre mí</h3>
+<!-- ============ SOBRE MI ============ -->
+<h3 align="center">Sobre mí</h3>
 
 <table align="center">
   <tr>
     <td width="60%" valign="middle">
 
-¡Hola! Soy **Breyder Duran**, estudiante de desarrollo web con base técnica en sistemas y redes. Me gusta aprender tecnologías nuevas y aplicarlas en proyectos reales.
+Soy **Breyder Duran**, estudiante de desarrollo web con base técnica en sistemas y redes. Me gusta aprender tecnologías nuevas y aplicarlas en proyectos reales.
 
-- 🎓 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** en el **IES Infanta Elena**
-- 🖥️ **Técnico en Sistemas Microinformáticos y Redes (SMR)** con experiencia previa en entorno empresarial
-- 🌱 Enfocado en desarrollo web **full-stack**, optimización **SEO** y administración de sistemas
-- 🎯 **Objetivo actual:** realizar mis **prácticas curriculares (FCT)** aportando compromiso, orden y aprendizaje rápido a un equipo de desarrollo
+- Estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** en el **IES Infanta Elena**
+- **Técnico en Sistemas Microinformáticos y Redes (SMR)** con experiencia previa en entorno empresarial
+- Enfocado en desarrollo web **full-stack**, optimización **SEO** y administración de sistemas
+- **Objetivo actual:** realizar mis **prácticas curriculares (FCT)** aportando compromiso, orden y aprendizaje rápido a un equipo de desarrollo
 
   </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=FFFFFF&background=000000&width=360&height=190&lines=%24+whoami;%3E+Breyder+Duran;%24+cat+stack.txt;%3E+Java+%C2%B7+PHP+%C2%B7+JS+%C2%B7+Python;%24+.%2Fstatus+--fct;%3E+Buscando+pr%C3%A1cticas+%F0%9F%9A%80&multiline=true&repeat=true&vCenter=true" alt="Terminal animada" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=FFFFFF&background=000000&width=360&height=170&lines=%24+whoami;Breyder+Duran;%24+cat+stack.txt;Java%2C+PHP%2C+JavaScript%2C+Python;%24+status;Buscando+pr%C3%A1cticas+FCT&multiline=true&repeat=true&vCenter=true" alt="Terminal animada" />
     </td>
   </tr>
 </table>
@@ -56,8 +56,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2" width="80%" alt="" />
 </div>
 
-<!-- ============ TECNOLOGÍAS ============ -->
-<h3 align="center">⚙️ Tecnologías</h3>
+<!-- ============ TECNOLOGIAS ============ -->
+<h3 align="center">Tecnologías</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -78,20 +78,20 @@
 </div>
 
 <!-- ============ LO QUE BUSCO ============ -->
-<h3 align="center">🚀 Lo que busco</h3>
+<h3 align="center">Lo que busco</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h4>🎯 Prácticas (FCT)</h4>
+      <h4>Prácticas (FCT)</h4>
       Un equipo de desarrollo donde aportar y seguir creciendo
     </td>
     <td align="center" width="33%">
-      <h4>💻 Full-stack</h4>
+      <h4>Full-stack</h4>
       Proyectos de desarrollo web, front y back
     </td>
     <td align="center" width="33%">
-      <h4>⚡ Aprender rápido</h4>
+      <h4>Aprender rápido</h4>
       Compromiso, orden y ganas de mejorar cada día
     </td>
   </tr>
@@ -101,8 +101,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2" width="80%" alt="" />
 </div>
 
-<!-- ============ ESTADÍSTICAS ============ -->
-<h3 align="center">📊 Estadísticas</h3>
+<!-- ============ ESTADISTICAS ============ -->
+<h3 align="center">Estadísticas</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=breyderduran04-hub&background=000000&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="Racha de contribuciones" />
@@ -123,9 +123,16 @@
   <img src="https://raw.githubusercontent.com/breyderduran04-hub/breyderduran04-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- ============ FOOTER ============ -->
+<br>
+
+<!-- ============ GATO PIXEL ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=500&height=40&lines=%C2%A1Gracias+por+visitar+mi+perfil!;Hablemos+si+tienes+una+oportunidad+%F0%9F%A4%9D" alt="Despedida" />
+  <img src="https://raw.githubusercontent.com/breyderduran04-hub/breyderduran04-hub/main/assets/cat.svg" alt="Gato pixel durmiendo" width="260" />
+</div>
+
+<!-- ============ DESPEDIDA ============ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=500&height=40&lines=Gracias+por+visitar+mi+perfil;Hablemos+si+tienes+una+oportunidad" alt="Despedida" />
 </div>
 
 <div align="center">
